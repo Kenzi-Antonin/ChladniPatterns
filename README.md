@@ -1,4 +1,4 @@
-#Chladni Patterns – Festival Interactive Installation 
+# Chladni Patterns – Festival Interactive Installation 
 This project aims to create an interactive installation demonstrating Chladni patterns for a public festival.
 
 Chladni patterns appear when sound vibrations move through a rigid surface covered with fine particles (such as sand). At certain frequencies, the particles arrange themselves into beautiful geometric shapes, making sound waves visible to the human eye.
